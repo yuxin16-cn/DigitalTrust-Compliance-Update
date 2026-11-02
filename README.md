@@ -23,4 +23,4 @@ TIC行业从业，参与EN 18031-1/-2 （欧盟RED-DA）、CCRC EAL 2+、欧盟C
 Email: contact@intentandscope.com
 
 ## 历史月报
-- [2026-10](网络安全&AI合规月报 - 2026年10月.md)
+- 网络安全&AI合规月报 - 2026年10月.md
